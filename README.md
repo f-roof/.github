@@ -1,6 +1,6 @@
 # Functional Roof
 
-## Single-layer multi-function roof.
+## Single-layer multi-function roof
 
 The purpose of the F-Roof is to provide the followings:
 
