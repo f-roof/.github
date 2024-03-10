@@ -1,6 +1,6 @@
 # Functional Roof
 
-## Single-layer multi-function roof
+Single-layer multi-function roof
 
 The purpose of the F-Roof is to provide the followings:
 
@@ -20,9 +20,11 @@ MIT
 ## Warning
 
 I offer *NO warranty* for the information provided in this project!
-I am *NOT an expert* in the subjects used in the design and construction of this project! 
+
+I am *NOT an expert* in ANY the subjects used in the design and construction of this project! 
+
 Use it on your own risk!
 
 ## Special thanks to
 
-Dorin Popa, Emil Roșu.
+Dorin Popa, Emil Roșu, Nicolae Oltean.
