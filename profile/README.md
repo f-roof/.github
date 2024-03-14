@@ -23,7 +23,9 @@ All units are in mm.
 - 80x40x3 rectangular tubes.
 - 60x40x3 rectangular tubes.
 - T40 profiles.
-- L40 profiles. 
+- L40 profiles.
+- M8x100 screws.
+- M8 autolock nuts.
 
 ### Tools
 
