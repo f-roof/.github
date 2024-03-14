@@ -13,6 +13,25 @@ The purpose of the F-Roof is to provide the followings:
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
+## Instructions
+
+### Materials
+
+The roof is made from metal.
+All units are in mm.
+
+- 80x40x3 rectangular tubes.
+- 60x40x3 rectangular tubes.
+- T40 profiles.
+- L40 profiles. 
+
+### Tools
+
+- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle).
+- Drill machine.
+- Welding machine.
+- Screw driver (preferably electric).
+
 ## License
 
 MIT
@@ -23,7 +42,7 @@ I offer *NO warranty* for the information provided in this project!
 
 I am *NOT an expert* in ANY the subjects used in the design and construction of this project! 
 
-Use it on your own risk!
+Use it on your OWN risk!
 
 ## Special thanks to
 
