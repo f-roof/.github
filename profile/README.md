@@ -1,6 +1,6 @@
 # Functional Roof
 
-__Single-layer multi-function roof__
+__Single-layer multi-function (solar energy provider and agricultural) roof__
 
 The purpose of the F-Roof is to provide the followings:
 
@@ -53,7 +53,7 @@ MIT. You may do whatever you want with this information as long as you mention t
 
 ### Cite as
 
-Mihai Oltean, *F-Roof: Single-layer multi-function roof*, 2023.
+Mihai Oltean, *F-Roof: A multi-purpose single-layer roof*, 2023.
 
 ## Warning
 
