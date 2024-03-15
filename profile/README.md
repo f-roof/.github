@@ -1,3 +1,5 @@
+![f-roof](f-roof.png)
+
 # Functional Roof
 
 __Single-layer multi-function (solar energy provider and agricultural) roof__
