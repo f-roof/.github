@@ -49,7 +49,11 @@ Pictures are [here]().
 
 ## License
 
-MIT
+MIT. You may do whatever you want with this information as long as you mention the author.
+
+### Cite as
+
+Mihai Oltean, F-Roof: Single-layer multi-function roof, 2023.
 
 ## Warning
 
