@@ -57,11 +57,13 @@ Mihai Oltean, *F-Roof: Single-layer multi-function roof*, 2023.
 
 ## Warning
 
-I offer *NO warranty* for the information provided in this project!
+- I offer *NO warranty* for the information provided in this project!
 
-I am *NOT an expert* in ANY the subjects used in the design and construction of this project! 
+- I am *NOT an expert* in ANY the subjects used in the design and construction of this project! 
 
-Use it on your OWN risk!
+- Use it on *your OWN risk*!
+
+- This is work in progress. Everything might change depending on the experimentation results.
 
 ## Special thanks to
 
