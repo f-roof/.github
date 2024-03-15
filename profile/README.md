@@ -9,7 +9,7 @@ The purpose of the F-Roof is to provide the followings:
 - Provide food to the house's inhabitans.
 - Utilized a small amount of materials (solar panels and plant pots are actually the structure of the roof).
 
-## Author
+## Creator
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
@@ -17,15 +17,23 @@ The purpose of the F-Roof is to provide the followings:
 
 ### Materials
 
-The roof is made from metal.
+Almost the entire roof is made from metal.
 All units are in mm.
 
 - 80x40x3 rectangular tubes.
 - 60x40x3 rectangular tubes.
 - T40 profiles.
+- T50 profiles.
 - L40 profiles.
+- Solar panels.
+- Rectangular gutters.
+- Roof panels and some wooden boards(if you do not have enough solar panels or gutters).
+- Some wooden boards (used as steps at the end of the gutters).
 - M8x100 screws.
 - M8 autolock nuts.
+- Paint.
+
+The entire BOM is [here]().
 
 ### Tools
 
@@ -33,6 +41,11 @@ All units are in mm.
 - Drill machine.
 - Welding machine.
 - Screw driver (preferably electric).
+- Drill bits (8mm).
+
+## Pictures
+
+Pictures are [here]().
 
 ## License
 
