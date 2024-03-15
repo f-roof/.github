@@ -2,18 +2,20 @@
 
 __Single-layer multi-function (solar energy provider and agricultural) roof__
 
-The purpose of the F-Roof is to provide the followings:
+The purpose of the F-Roof is to provide the following:
 
 - Protect the house from rain and snow.
 - Provide solar energy to the house.
-- Provide food to the house's inhabitans.
-- Utilized a small amount of materials (solar panels and plant pots are actually the structure of the roof).
+- Provide food to the house's inhabitants.
+- Utilized a small amount of materials (solar panels and plant pots are the roof's structure).
 
 ## Creator
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
 ## Instructions
+
+Brief instructions are here. More details are in the corresponding links.
 
 ### Materials
 
@@ -30,7 +32,7 @@ All units are in mm.
 - Roof panels and some wooden boards(if you do not have enough solar panels or gutters).
 - Some wooden boards (used as steps at the end of the gutters).
 - M8x100 screws.
-- M8 autolock nuts.
+- M8 auto-lock nuts.
 - Paint.
 
 The entire BOM is [here]().
@@ -40,7 +42,7 @@ The entire BOM is [here]().
 - Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle).
 - Drill machine.
 - Welding machine.
-- Screw driver (preferably electric).
+- Screwdriver (preferably electric).
 - Drill bits (8mm).
 
 ## Pictures
@@ -59,12 +61,12 @@ Mihai Oltean, *F-Roof: A multi-purpose single-layer roof*, 2023.
 
 - I offer *NO warranty* for the information provided in this project!
 
-- I am *NOT an expert* in ANY the subjects used in the design and construction of this project! 
+- I am *NOT an expert* in ANY of the subjects used in the design and construction of this project! 
 
 - Use it on *your OWN risk*!
 
-- This is work in progress. Everything might change depending on the experimentation results.
+- This is a work in progress. Everything might change depending on the experiment results.
 
 ## Special thanks to
 
-Dorin Popa, Emil Roșu, Nicolae Oltean.
+Dorin Popa, Nicolae Oltean, Emil Roșu, Dani Cotoară, Eduard Șuică.
