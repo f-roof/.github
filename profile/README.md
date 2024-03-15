@@ -53,7 +53,7 @@ MIT. You may do whatever you want with this information as long as you mention t
 
 ### Cite as
 
-Mihai Oltean, F-Roof: Single-layer multi-function roof, 2023.
+Mihai Oltean, *F-Roof: Single-layer multi-function roof*, 2023.
 
 ## Warning
 
