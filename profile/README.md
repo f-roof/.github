@@ -9,7 +9,7 @@ The purpose of the F-Roof is to provide the following:
 - Protect the house from rain and snow.
 - Provide solar energy to the house.
 - Provide food to the house's inhabitants.
-- Utilized a small amount of materials (solar panels and plant pots are the roof's structure).
+- Utilized a minimal amount of materials (solar panels and plant pots are the roof's structure).
 
 ## Creator
 
