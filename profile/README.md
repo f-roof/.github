@@ -43,9 +43,9 @@ The entire BOM is [here]().
 
 - Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil) purchased from [Legnex](https://legnex.cz).
 - Drill machine.
-- Welding machine.
+- Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Screwdriver (preferably electric).
-- Drill bits (8mm).
+- Drill bits (8mm, 5mm).
 
 ## Pictures
 
