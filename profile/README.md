@@ -8,8 +8,8 @@ The purpose of the F-Roof is to provide the following:
 
 - Protect the house from rain and snow.
 - Provide solar energy to the house.
-- Provide food to the house's inhabitants.
-- Utilized a minimal amount of materials (solar panels and plant pots are the roof's structure).
+- Provide food (vegetables) for the house's inhabitants.
+- Utilize a minimal amount of materials (solar panels and plant pots are the roof's structure).
 
 ## Creator
 
@@ -34,8 +34,8 @@ All units are in mm.
 - T50 profiles.
 - L40 profiles.
 - Solar panels. I have [Hyundai 485W]().
-- Rectangular gutters. I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
-- Roof panels and some wooden boards(if you do not have enough solar panels or gutters).
+- Rectangular gutters (filled with soil for plants). I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
+- Roof panels and some wooden boards (if you do not have enough solar panels or gutters).
 - Some wooden boards (used as steps at the end of the gutters).
 - M8x100, M8x60 screws (stainless steel), auto-drilling screws.
 - M8 auto-lock nuts stainless steel.
