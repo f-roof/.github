@@ -61,8 +61,9 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 - Screwdriver (preferably electric).
 - Drill bits (8mm, 5mm, 3.5mm, etc) of various lengths.
 
-### Sofware
+### Software
 
+- [OpenSCAD](https://openscad.org) - for design.
 - [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting bars.
 
 ## Build instructions
