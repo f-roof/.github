@@ -40,7 +40,7 @@ All units are in mm.
 - M8x100, M8x60 screws (stainless steel), auto-drilling screws.
 - M8 auto-lock nuts stainless steel.
 - Paint.
-- Mastic.
+- Mastic (around the solar panels).
 
 The entire BOM is [here](bom.md). Note: the lengths are computed for my house, so they may be different for yours.
 
