@@ -28,7 +28,7 @@ Because:
 
 Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Maps location](https://maps.app.goo.gl/KsL6PsEaSgzJYHLw7)
 
-## Instructions
+## Materials, tools and software
 
 Brief instructions are given below. More details are in the links.
 
@@ -60,6 +60,10 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Screwdriver (preferably electric).
 - Drill bits (8mm, 5mm, 3.5mm, etc) of various lengths.
+
+### Sofware
+
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting bars.
 
 ## Pictures
 
