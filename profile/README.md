@@ -15,6 +15,14 @@ The purpose of the F-Roof is to provide the following:
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
+## Project location
+
+Street: **Gh. Lazăr 9**
+
+Town: **Cugir**
+
+Country: **Romania**
+
 ## Instructions
 
 Brief instructions are here. More details are in the corresponding links.
