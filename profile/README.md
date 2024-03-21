@@ -30,7 +30,7 @@ Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Ma
 
 ## Instructions
 
-Brief instructions are geiven below. More details are in the corresponding links.
+Brief instructions are given below. More details are in the links.
 
 ### Materials
 
