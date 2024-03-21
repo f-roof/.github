@@ -29,27 +29,28 @@ All units are in mm.
 - T40 profiles.
 - T50 profiles.
 - L40 profiles.
-- Solar panels.
-- Rectangular gutters.
+- Solar panels. I have [Hyundai 485W]().
+- Rectangular gutters. I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
 - Roof panels and some wooden boards(if you do not have enough solar panels or gutters).
 - Some wooden boards (used as steps at the end of the gutters).
-- M8x100 screws.
-- M8 auto-lock nuts.
+- M8x100, M8x60 screws (stainless steel), auto-drilling screws.
+- M8 auto-lock nuts stainless steel.
 - Paint.
+- Mastic.
 
-The entire BOM is [here]().
+The entire BOM is [here](bom.md). Note: the lengths are computed for my house, so they may be different for yours.
 
 ### Tools
 
 - Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil) purchased from [Legnex](https://legnex.cz).
-- Drill machine.
+- Drill machine. I have a [Milwaukee M18FDD30X](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Screwdriver (preferably electric).
-- Drill bits (8mm, 5mm).
+- Drill bits (8mm, 5mm, 3.5mm, etc) of various lengths.
 
 ## Pictures
 
-Pictures are [here]().
+Pictures are [here](pictures.md).
 
 ## License
 
