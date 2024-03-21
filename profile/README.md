@@ -65,6 +65,11 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 
 - [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting bars.
 
+## Build instructions
+
+- cut, weld, drill, mount.
+More details soon...
+
 ## Pictures
 
 Pictures are [here](pictures.md).
