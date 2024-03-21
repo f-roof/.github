@@ -11,6 +11,15 @@ The purpose of the F-Roof is to provide the following:
 - Provide food (vegetables) for the house's inhabitants.
 - Utilize a minimal amount of materials (solar panels and plant pots are the roof's structure).
 
+## Why F-Roof?
+
+Because:
+
+- Most of the roofs have a single function: to protect the house from rain and snow.
+- Ground-level soil should be used for growing trees not vegetables.
+- Existing roof-gardens have too many unnecesarly layers, thus being expensive.
+- Wood should not be utilized construction purposes. Trees are more important than that!
+
 ## Creator
 
 [Mihai Oltean](https://mihaioltean.github.io)
