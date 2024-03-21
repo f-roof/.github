@@ -17,7 +17,7 @@ The purpose of the F-Roof is to provide the following:
 
 ## Project location
 
-Street: **Gh. Lazăr 9**, town: **Cugir**, country: **Romania**.
+Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Maps location](https://maps.app.goo.gl/KsL6PsEaSgzJYHLw7)
 
 ## Instructions
 
