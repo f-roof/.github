@@ -20,7 +20,7 @@ Because:
 - Existing roof-gardens have too many unnecesarly layers, thus being expensive.
 - Wood should not be utilized construction purposes. Trees are more important than that!
 
-## Creator
+## Maker
 
 [Mihai Oltean](https://mihaioltean.github.io)
 
