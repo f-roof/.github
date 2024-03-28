@@ -42,7 +42,7 @@ All units are in mm.
 - T40 profiles.
 - T50 profiles.
 - L40 profiles.
-- Solar panels. I have [Hyundai 485W]().
+- Solar panels. I have *Hyundai 485W*.
 - Rectangular gutters (filled with soil for plants). I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
 - Roof panels and some wooden boards (if you do not have enough solar panels or gutters).
 - Some wooden boards (used as steps at the end of the gutters).
@@ -55,11 +55,11 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 
 ### Tools
 
-- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil) purchased from [Legnex](https://legnex.cz).
+- Band saw (able to cut 80x40mm rectangular tube at 52 degrees angle). I have a [PILOUS ARG 130 mobil](https://www.pilous.cz/en/metal/bandsaws/manual/arg-130-mobil).
 - Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Screwdriver (preferably electric).
-- Drill bits (8mm, 5mm, 3.5mm, etc) of various lengths.
+- Drill bits (8mm, 5.5mm, 5mm, 4.8mm, 4mm, 3.5mm, etc) of various lengths.
 
 ### Software
 
@@ -69,6 +69,10 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 ## Build instructions
 
 - cut, weld, drill, mount.
+More details soon...
+
+## Cost
+
 More details soon...
 
 ## Pictures
