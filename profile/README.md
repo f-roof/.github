@@ -79,16 +79,16 @@ More details soon...
 
 - Prices are specific to my region (Cugir, Romania). I have not searched for better prices from distant stores. Prices do not include shipping (because I purchased the materials from nearby stores and the shipping was free).
 
-|Material     |Quantity |Price (EURO)|
-| ----------- | ------- | ---------- |
-|80x40x3 tubes|63m      |390         |
-|60x40x3 tubes|98m      |490         |
-|T40|42m|245|
-|Solar panels|9 pcs|1800|
-|Metal tiles|141 mp|284|
-|Wood laces (50x30mm)|91m|50|
-|Mastic;9 tubes|90|
-|Screews, nuts, washers|Many|300|
+|Material     |Quantity |Unit |Price per unit| Total price (EURO)|
+| ----------- | ------- | --- | ------- | --- |
+|80x40x3 tubes|63|m      ||390         |
+|60x40x3 tubes|98|m      ||490         |
+|T40|42|m||245|
+|Solar panels|9|pcs||1800|
+|Metal tiles|141|mp||284|
+|Wood laces (50x30mm)|91|m||50|
+|Mastic|9|tubes||90|
+|Screews, nuts, washers|Many|pcs||300|
 
 **Total:3649 EUROS**
 
