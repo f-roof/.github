@@ -80,7 +80,7 @@ More details soon...
 - Prices are specific to my region (Cugir, Romania). I have not searched for better prices from distant stores. Prices do not include shipping (because I purchased the materials from nearby stores and the shipping was free).
 
 |Material     |Quantity |Price (EURO)|
-| ----------- | -------------------- |
+| ----------- | ------- | ---------- |
 |80x40x3 tubes|63m      |390         |
 |60x40x3 tubes|98m      |490         |
 
