@@ -90,7 +90,7 @@ More details soon...
 |Mastic|9|tubes||90|
 |Screews, nuts, washers|Many|pcs||300|
 
-**Total:3649 EUROS**
+**Total: EURO 3649 **
 
 Will be updated...
 
