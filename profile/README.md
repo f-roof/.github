@@ -85,7 +85,7 @@ More details soon...
 |60x40x3 tubes|98|m      ||490         |
 |T40|42|m||245|
 |Solar panels|9|pcs||1800|
-|Metal tiles|141|m^2^||284|
+|Metal tiles|141|$m^2||284|
 |Wood laces (50x30mm)|91|m||50|
 |Mastic|9|tubes||90|
 |Screews, nuts, washers|Many|pcs||300|
