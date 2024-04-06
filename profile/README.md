@@ -28,6 +28,10 @@ Because:
 
 Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Maps location](https://maps.app.goo.gl/KsL6PsEaSgzJYHLw7)
 
+## CAD files
+
+[F-Roof CAD](https://github.com/f-roof/f-roof-cad)
+
 ## Materials, tools and software
 
 Brief instructions are given below. More details are in the links.
