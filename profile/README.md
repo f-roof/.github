@@ -30,7 +30,7 @@ Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Ma
 
 ## CAD files
 
-[F-Roof CAD](https://github.com/f-roof/f-roof-cad)
+[F-Roof CAD](https://github.com/f-roof/cad)
 
 ## Materials, tools and software
 
@@ -79,7 +79,7 @@ More details soon...
 
 - Prices are for a roof of (approx.) 6.5m length and 7 meters depth.
 
-- Prices do not include manufacturing (which I did it by myself) and tools (which I have).
+- Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
 - Prices are specific to my region (Cugir, Romania). I have not searched for better prices from distant stores. Prices do not include shipping (because I purchased the materials from nearby stores and the shipping was free).
 
@@ -108,10 +108,6 @@ Pictures are [here](pictures.md).
 
 MIT. You may do whatever you want with this information as long as you mention the author.
 
-### Cite as
-
-Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
-
 ## Warning
 
 - I offer *NO warranty* for the information provided in this project!
@@ -121,6 +117,10 @@ Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 - Use it on *your OWN risk*!
 
 - This is a work in progress. Everything might change depending on the experiment results.
+
+### Cite as
+
+Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
 ## Special thanks to
 
