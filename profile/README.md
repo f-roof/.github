@@ -1,4 +1,4 @@
-![f-roof](../f_roof_1.jpeg)
+![f-roof](../pictures/f_roof_1.jpeg)
 
 # Functional Roof
 
