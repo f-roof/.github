@@ -9,17 +9,17 @@ The purpose of the __F-Roof__ is to provide the following:
 - Protect the house from rain and snow.
 - Provide solar energy to the house.
 - Provide food (vegetables) for the house's inhabitants.
-- Utilize a minimal amount of materials (solar panels and plant pots have dual purpose: they provide energy/food and make the roof's structure).
+- Utilize a minimal amount of materials (solar panels and plant pots have a dual purpose: they provide energy/food and make the roof's structure).
 
 ## Why F-Roof?
 
 Because:
 
 - Most of the roofs have a single function: to protect the house from rain and snow. We need more from a roof!
-- Ground-level soil should be used for growing trees not vegetables. Vegetables have small roots which require less soil.
-- Existing roof-gardens have too many unnecesarly layers, thus being expensive. One layer should be enough.
+- Ground-level soil should be used for growing trees, not vegetables. Vegetables have small roots that require less soil.
+- Existing roof-gardens have too many unnecessary layers, thus being expensive. One layer should be enough.
 - Soil on the roof provides thermal insulation, so the attic becomes less hot during summer.
-- The air behind solar panels could be circulated (with a fan) so the temperature of the panels will be reduced and their efficiency will be increased.
+- The air behind solar panels could be circulated (with a fan) so the panels' temperature will be reduced and their efficiency will be increased.
 - Wood should not be utilized construction purposes. Trees are more important than for building houses! 
 
 ## Maker
