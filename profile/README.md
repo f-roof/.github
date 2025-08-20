@@ -45,16 +45,16 @@ All units are in mm.
 
 - 80x40x3 rectangular tubes.
 - 60x40x3 rectangular tubes.
+- 50x30x2 rectangular tubes.
 - T40 profiles.
-- T50 profiles.
 - L40 profiles.
-- Solar panels. I have *Hyundai 485W*.
+- Solar panels. I utilized *Hyundai 485W*.
 - Rectangular gutters (filled with soil for plants). I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
 - Roof panels and some wooden boards (if you do not have enough solar panels or gutters).
 - Some wooden boards (used as steps at the end of the gutters).
-- M8x100, M8x60 screws (stainless steel), auto-drilling screws.
+- Screws (M8x100, M8x60, etc) (stainless steel), auto-drilling screws.
 - M8 auto-lock nuts stainless steel.
-- Paint.
+- Paint, wood varnish.
 - Mastic (around the solar panels).
 
 The entire BOM is [here](bom.md). Note: the lengths are computed for my house, so they may be different for yours.
