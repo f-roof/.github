@@ -126,4 +126,4 @@ Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
 ## Special thanks to
 
-Nicolae Oltean, Dorin Popa, Emil Roșu, Dani Cotoară, Cristi Simina, Trăian Mărginean, Eduard Șuică.
+Nicolae Oltean, Dorin Popa, Emil Roșu, Dani Cotoară, Cristi Simina, Trăian Mărginean, Simona Dumitriu, Eduard Șuică ... and more others.
