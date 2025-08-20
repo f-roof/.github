@@ -4,10 +4,10 @@
 
 __Single-layer multi-function (solar energy provider and agricultural) roof__
 
-The purpose of the __F-Roof__ is to provide the following:
+The purpose of the __F-Roof__ is to:
 
 - Protect the house from rain and snow.
-- Provide solar energy to the house.
+- Provide electrical energy to the house.
 - Provide food (vegetables) for the house's inhabitants.
 - Utilize a minimal amount of materials (solar panels and plant pots have a dual purpose: they provide energy/food and make the roof's structure).
 
@@ -120,10 +120,10 @@ MIT. You may do whatever you want with this information as long as you mention t
 
 - This is a work in progress. Everything might change depending on the experiment results.
 
-### Cite as
+## Cite as
 
 Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
 ## Special thanks to
 
-Dorin Popa, Nicolae Oltean, Emil Roșu, Dani Cotoară, Eduard Șuică.
+Nicolae Oltean, Dorin Popa, Emil Roșu, Dani Cotoară, Cristi Simina, Trăian Mărginean, Eduard Șuică.
