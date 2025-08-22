@@ -1,8 +1,8 @@
 ![f-roof](../pictures/f_roof_1.jpeg)
 
-# Functional Roof
+# F-Roof
 
-__Single-layer multi-function (solar energy provider and agricultural) roof__
+A single-layer, multi-function roof.
 
 The purpose of the __F-Roof__ is to:
 
@@ -65,7 +65,8 @@ The entire BOM is [here](bom.md). Note: the lengths are computed for my house, s
 - Drill machine. I have a [Milwaukee M18 FDD3](https://www.milwaukeetool.com/).
 - Welding machine. I have a [Lorch Handy 160](https://lorch.eu).
 - Screwdriver (preferably electric).
-- Drill bits (8mm, 5.5mm, 5mm, 4.8mm, 4mm, 3.5mm, etc) of various lengths.
+- Drill bits.
+- Many others...
 
 ### Software
 
