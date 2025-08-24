@@ -20,7 +20,7 @@ Because:
 - Existing roof-gardens have too many unnecessary layers, thus being expensive. One layer should be enough.
 - Soil on the roof provides thermal insulation, so the attic becomes less hot during summer.
 - The air behind solar panels could be circulated (with a fan) so the panels' temperature will be reduced and their efficiency will be increased.
-- Wood should not be utilized construction purposes. Trees are more important than for building houses! 
+- Wood should not be utilized for construction purposes. Trees are more important than for building houses! 
 
 ## Maker
 
@@ -50,14 +50,12 @@ All units are in mm.
 - L40 profiles.
 - Solar panels. I utilized *Hyundai 485W*.
 - Rectangular gutters (filled with soil for plants). I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
-- Roof panels and some wooden boards (if you do not have enough solar panels or gutters).
-- Some wooden boards (used as steps at the end of the gutters).
+- Roof tiles and some wooden boards (if you do not have enough solar panels or gutters).
+- 2 wooden boards of 4500x140x40 (used as steps at the end of the gutters).
 - Screws (M8x100, M8x60, etc) (stainless steel), auto-drilling screws.
 - M8 auto-lock nuts stainless steel.
 - Paint, wood varnish.
 - Mastic (around the solar panels).
-
-The entire BOM is [here](bom.md). Note: the lengths are computed for my house, so they may be different for yours.
 
 ### Tools
 
@@ -80,7 +78,7 @@ More details soon...
 
 ## Cost
 
-- Prices are for a roof of (approx.) 6.5m length and 7 meters depth.
+- Prices are for a roof of (approx.) solar side: 6.5m length, roof-garden side: 1.3m and 7 meters depth.
 
 - Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
@@ -92,20 +90,21 @@ More details soon...
 | ----------- | ------- | --- | ------- | --- |
 |80x40x3 tubes|63|m      ||390         |
 |60x40x3 tubes|98|m      ||490         |
+|50x30x2 tubes|20|m      ||100         |
 |T40|42|m||245|
 |Solar panels|9|pcs|200|1800|
+|Gutters|36|m|25|900|
 |Metal tiles|141|$m^2$||284|
 |Wood laces (50x30mm)|91|m||50|
+|Wood boards (140x40mm)|9|m||25|
 |Mastic|9|tubes|8|72|
 |Screews, nuts, washers|Many|pcs||300|
 
-**Total: EURO 3649**
-
-Will be updated...
+Will be updated ...
 
 ## Pictures
 
-Pictures are [here](pictures.md).
+Pictures are [here](../pictures/).
 
 ## License
 
