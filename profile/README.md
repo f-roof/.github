@@ -102,7 +102,9 @@ More details soon...
 
 Will be updated ...
 
-## Pictures
+## Pictures and videos
+
+A video with the exterior and interior of the roof can be found on [YouTube](https://www.youtube.com/watch?v=yZRalp4EQG4).
 
 Pictures are [here](../pictures/).
 
