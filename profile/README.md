@@ -9,7 +9,7 @@ The purpose of the __F-Roof__ is to:
 - Protect the house from rain and snow.
 - Provide electrical energy to the house.
 - Provide food (vegetables) for the house's inhabitants.
-- Utilize a minimal amount of materials (solar panels and plant pots have a dual purpose: they provide energy/food and make the roof's structure).
+- Use structure as function (solar panels and plants' pots are the roof).
 
 ## Why F-Roof?
 
@@ -20,7 +20,8 @@ Because:
 - Existing roof-gardens have too many unnecessary layers, thus being expensive. One layer should be enough.
 - Soil on the roof provides thermal insulation, so the attic becomes less hot during summer.
 - The air behind solar panels could be circulated (with a fan) so the panels' temperature will be reduced and their efficiency will be increased.
-- Wood should not be utilized for construction purposes. Trees are more important than for building houses! 
+- Wood should not be utilized for construction purposes. Trees are more important than for building houses!
+- Utilize a minimal amount of materials (solar panels and plant pots have a dual purpose: they provide energy/food and make the roof's structure).
 
 ## Maker
 
@@ -128,4 +129,4 @@ Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
 ## Special thanks to
 
-Nicolae Oltean, Dorin Popa, Emil Roșu, Dani Cotoară, Cristi Simina, Trăian Mărginean, Simona Dumitriu, Eduard Șuică, Adi Gorea ... and many more ...
+Nicolae Oltean, Emil Roșu, Dorin Popa, Dani Cotoară, Cristi Simina, Traian Mărginean, Simona Dumitriu, Eduard Șuică, Adi Gorea ... and many others ...
