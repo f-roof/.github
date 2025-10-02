@@ -74,7 +74,17 @@ All units are in mm.
 
 ## Build instructions
 
-- cut, drill, weld, mount.
+- Cut bars to required size and angle
+- Build (weld) the trusses
+- Lift trusses onto the house
+- Connect trusses
+- Place solar panels
+- Prepare gutters with plants
+- Prepare the steps for supporting the gutters
+- Build some balustrade for hand support
+- Lift plant gutters on the roof
+- Apply tape to insulate against water leakage
+
 More details soon...
 
 ## Cost
