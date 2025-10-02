@@ -74,16 +74,17 @@ All units are in mm.
 
 ## Build instructions
 
-- Cut bars to required size and angle
-- Build (weld) the trusses
-- Lift trusses onto the house
-- Connect trusses
-- Place solar panels
-- Prepare gutters with plants
-- Prepare the steps for supporting the gutters
-- Build some balustrade for hand support
-- Lift plant gutters on the roof
-- Apply tape to insulate against water leakage
+- Cut the bars to required size and angle,
+- Build (weld) the trusses,
+- Lift trusses onto the house,
+- Connect trusses with T40 profiles,
+- Place solar panels on the South side,
+- Prepare gutters with plants (at the ground level),
+- Prepare (cut) the steps for supporting the gutters,
+- Build some balustrade for hand support,
+- Lift plant gutters on the roof (North side),
+- Apply bituminous tape, behind gutters, to insulate against water leakage,
+- Water the plants (every summer day).
 
 More details soon...
 
