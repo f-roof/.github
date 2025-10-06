@@ -16,11 +16,29 @@
 ![f-roof](../pictures/IMG_1264.JPG)
 
 - Place solar panels on the South side,
+
+![f-roof](../pictures/IMG_1298.JPG)
+
 - Prepare gutters with plants (at the ground level),
+
+![f-roof](../pictures/IMG_3269.JPG)
+
 - Prepare (cut) the steps for supporting the gutters,
+
+![f-roof](../pictures/IMG_3290.JPG)
+
 - Build some balustrade for hand support,
+
+![f-roof](../pictures/IMG_3289.JPG)
+
 - Lift plant gutters on the roof (North side),
+
+![f-roof](../pictures/IMG_3297.JPG)
+
 - Apply bituminous tape, behind gutters, to insulate against water leakage,
+
+![f-roof](../pictures/IMG_3307.JPG)
+
 - Water the plants (every summer day).
 
 
