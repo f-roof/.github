@@ -86,7 +86,7 @@ All units are in mm.
 - Apply bituminous tape, behind gutters, to insulate against water leakage,
 - Water the plants (every summer day).
 
-More details soon...
+More details are in [instructions.md](instructions.md)
 
 ## Cost
 
