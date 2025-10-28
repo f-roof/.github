@@ -39,7 +39,7 @@
 
 ![f-roof](../pictures/IMG_3307.JPG)
 
-- Water the plants (every summer day).
+- Water the plants (every day during summer).
 
 
 
