@@ -70,7 +70,7 @@ All units are in mm.
 ### Software
 
 - [OpenSCAD](https://openscad.org) - for design.
-- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting bars.
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materials (bars).
 
 ## Build instructions
 
