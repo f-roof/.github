@@ -118,11 +118,21 @@ Will be updated ...
 
 A video with the exterior and interior of the roof can be found on [YouTube](https://www.youtube.com/watch?v=yZRalp4EQG4).
 
+Another video taken "Ziarul Unirea" newspaper is here on [YouTube](https://www.youtube.com/watch?v=QPRrpcEwZV0).
+
 Pictures are [here](../pictures/).
+
+## Cite as
+
+Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
 ## License
 
 MIT. You may do whatever you want with this information as long as you mention the author.
+
+## Special thanks to
+
+Nicolae Oltean, Emil Roșu, Dorin Popa, Daniel Cotoară, Cristian Simina, Traian Mărginean, Simona Dumitriu, Eduard Șuică, Adi Gorea ... and many others ...
 
 ## Warning
 
@@ -134,10 +144,6 @@ MIT. You may do whatever you want with this information as long as you mention t
 
 - This is a work in progress. Everything might change depending on the experiment results.
 
-## Cite as
+## Press and Media appearances
 
-Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
-
-## Special thanks to
-
-Nicolae Oltean, Emil Roșu, Dorin Popa, Dani Cotoară, Cristi Simina, Traian Mărginean, Simona Dumitriu, Eduard Șuică, Adi Gorea ... and many others ...
+Will be updated ...
