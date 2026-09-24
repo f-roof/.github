@@ -6,10 +6,10 @@ A single-layer, multi-function roof.
 
 The purpose of the __F-Roof__ is to:
 
-- Protect the house from rain and snow.
 - Provide electrical energy to the house.
 - Provide food (vegetables) for the house's inhabitants.
 - Use structure as function (solar panels and plants' pots are the roof).
+- Protect the house from rain and snow.
 
 ## Why F-Roof?
 
