@@ -90,7 +90,7 @@ More details are in [instructions.md](instructions.md)
 
 ## Cost
 
-- Prices are for a roof of (approx.) solar side: 6.5m length, roof-garden side: 1.3m and 7 meters depth.
+- Prices are for a roof of (approx.) solar side: 6.5m length, roof-garden side: 1.3m and 4.5 meters depth.
 
 - Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
