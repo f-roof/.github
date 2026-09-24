@@ -33,7 +33,7 @@ Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Ma
 
 ## CAD files
 
-[F-Roof CAD](https://github.com/f-roof/cad)
+[F-Roof CAD repository](https://github.com/f-roof/cad)
 
 ## Materials, tools and software
 
@@ -50,9 +50,9 @@ All units are in mm.
 - T40 profiles.
 - L40 profiles.
 - Solar panels. I utilized *Hyundai 485W*.
-- Rectangular gutters (filled with soil for plants). I used [Lindab RTRA](https://www.lindab.com/Catalog/building-products/rainwater-systems/gutter/gutter-rectangular/rtra/?sort=popularity&display=16&page=1).
+- Rectangular gutters (filled with soil for plants). I made them by myself from metal sheets.
 - Roof tiles and some wooden boards (if you do not have enough solar panels or gutters).
-- 2 wooden boards of 4500x140x40 (used as steps at the end of the gutters).
+- wooden boards of 4500x140x40 (used as support for gutters).
 - Screws (M8x100, M8x60, etc) (stainless steel), auto-drilling screws.
 - M8 auto-lock nuts stainless steel.
 - Paint, wood varnish.
@@ -114,11 +114,19 @@ More details are in [instructions.md](instructions.md)
 
 Will be updated ...
 
-## Pictures and videos
+## Videos
+
+_2025_
 
 A video with the exterior and interior of the roof can be found on [YouTube](https://www.youtube.com/watch?v=yZRalp4EQG4).
 
 Another video taken "Ziarul Unirea" newspaper is here on [YouTube](https://www.youtube.com/watch?v=QPRrpcEwZV0).
+
+_2026_
+
+Roof garden only on [YouTube](https://www.youtube.com/watch?v=ebjUevM9GPM).
+
+## Pictures
 
 Pictures are [here](../pictures/).
 
