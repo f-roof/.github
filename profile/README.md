@@ -134,6 +134,10 @@ Pictures are [here](../pictures/).
 
 Mihai Oltean, *F-Roof: A multi-function single-layer roof*, 2023.
 
+## Related projects
+
+[Wall Garden](https://github.com/wall-garden).
+
 ## License
 
 MIT. You may do whatever you want with this information as long as you mention the author.
