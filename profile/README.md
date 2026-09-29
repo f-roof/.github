@@ -37,7 +37,12 @@ Street: **Gheorghe Lazăr 9**, town: **Cugir**, country: **Romania**. [Google Ma
 
 ## Materials, tools and software
 
-Brief instructions are given below. More details are in the links.
+Brief info is given below. More details are in the links.
+
+### Software
+
+- [OpenSCAD](https://openscad.org) - for design.
+- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materials (bars). (Only if you have many bars to choose from.)
 
 ### Materials
 
@@ -67,10 +72,6 @@ All units are in mm.
 - Drill bits.
 - Many others...
 
-### Software
-
-- [OpenSCAD](https://openscad.org) - for design.
-- [Real Cut 1D](https://optimalprograms.com/realcut1d.htm) - for minimizing the waste when cutting linear materials (bars).
 
 ## Build instructions
 
