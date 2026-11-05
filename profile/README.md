@@ -91,7 +91,9 @@ More details are in [instructions.md](instructions.md)
 
 ## Cost
 
-- Prices are for a roof of (approx.) solar side: 6.5m length, roof-garden side: 1.3m and 4.5 meters depth.
+- The entire roof has 15m width, and 7m long (the base).  Solar side: 6.5m width; Roof-garden side: 2.4m and 4.5 meters length.
+
+- Prices are for the entire roof. Only the garden parts costs much less.
 
 - Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
