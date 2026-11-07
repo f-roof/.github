@@ -91,9 +91,7 @@ More details are in [instructions.md](instructions.md)
 
 ## Cost
 
-- The entire roof has 15m width, and 7m long (the base).  Solar side: 6.5m width; Roof-garden side: 2.4m and 4.5 meters length.
-
-- Prices are for the entire roof. Only the garden parts costs much less.
+- The entire roof is 15m width, and 7m long (the base).
 
 - Prices do not include manufacturing (which I did it by myself) and tools (which I already have).
 
@@ -101,21 +99,50 @@ More details are in [instructions.md](instructions.md)
 
 - Prices include VAT.
 
+Will be updated ...
+
+
+### Cost of the roof
+
+This is the cost of entire roof without garden and panels. Tiles will cover the entire surface. The tiles cost must be subtracted if you build the garden and solar.
+
 |Material     |Quantity |Unit |Price per unit| Total price (EURO)|
-| ----------- | ------- | --- | ------- | --- |
-|80x40x3 tubes|63|m      ||390         |
-|60x40x3 tubes|98|m      ||490         |
-|50x30x2 tubes|20|m      ||100         |
+| ----------- | ------- | --- | ------------ | ----------------- |
+|80x40x3 tubes| 63      |m    |              |390                |
+|60x40x3 tubes| 98      |m    |              |490                |
 |T40|42|m||245|
-|Solar panels|9|pcs|200|1800|
-|Gutters|36|m|25|900|
+|Gutters for rain|32|m|10|320|
 |Metal tiles|141|$m^2$||284|
-|Wood laces (50x30mm)|91|m||50|
-|Wood boards (140x40mm)|9|m||25|
-|Mastic|9|tubes|8|72|
+|Wood laces (50x30mm), 4m long|91|m||50|
 |Screews, nuts, washers|Many|pcs||300|
 
-Will be updated ...
+
+### Cost of the roof-garden
+
+This is the cost of roof garden.
+
+width = 2.4m; length = 4.5 m.
+  
+|Material     |Quantity |Unit |Price per unit| Total price (EURO)|
+| ----------- | ------- | --- | ------- | --- |
+|Metal sheet 0.5mm thick, 2x1.25m|11|pcs| 25  | 275 |
+|50x30x2 tubes| 20      |m    |         10    | 100             |
+|Wood boards (140x40mm), 5m long|3|pcs|25|75|
+|Wood boards (120x80x25mm)|81|pcs|0.1|10|
+|Mastic|9|pcs|8|72|
+|Wood screews|Many|pcs|0.1|20|
+
+
+### Cost of the solar panels
+
+width = 6.5m ; length = 4.5m
+
+|Material     |Quantity |Unit |Price per unit| Total price (EURO)|
+| ----------- | ------- | --- | -------------| ----------------- |
+|Solar panels |9        | pcs | 100          | 900 |
+
+
+
 
 ## Videos
 
