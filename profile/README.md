@@ -108,13 +108,14 @@ This is the cost of entire roof without garden and panels. Tiles will cover the 
 
 |Material     |Quantity |Unit |Price per unit| Total price (EURO)|
 | ----------- | ------- | --- | ------------ | ----------------- |
-|80x40x3 tubes| 63      |m    |              |390                |
-|60x40x3 tubes| 98      |m    |              |490                |
-|T40|42|m||245|
-|Gutters for rain|32|m|10|320|
-|Metal tiles|141|$m^2$||284|
-|Wood laces (50x30mm), 4m long|91|m||50|
-|Screews, nuts, washers|Many|pcs||300|
+|80x40x3mm tubes| 63      |m    |              |390                |
+|60x40x3mm tubes| 98      |m    |              |490                |
+|T40          | 42      |m    |              |245|
+|Gutters for rain|32    |m    |10            |320|
+|Metal tiles|141 |$m^2$|              |284|
+|Wood laces (50x30mm), 4m long|91|m|         |50|
+|Screews, nuts, washers|Many|pcs|            |300|
+|Total        |         |     |              |?|
 
 
 ### Cost of the roof-garden
@@ -124,22 +125,23 @@ This is the cost of roof garden.
 width = 2.4m; length = 4.5 m.
   
 |Material     |Quantity |Unit |Price per unit| Total price (EURO)|
-| ----------- | ------- | --- | ------- | --- |
+| ----------- | ------- | --- | ------------ | ----------------- |
 |Metal sheet 0.5mm thick, 2x1.25m|11|pcs| 25  | 275 |
 |50x30x2 tubes| 20      |m    |         10    | 100             |
 |Wood boards (140x40mm), 5m long|3|pcs|25|75|
 |Wood boards (120x80x25mm)|81|pcs|0.1|10|
 |Mastic|9|pcs|8|72|
 |Wood screews|Many|pcs|0.1|20|
+|Total        |         |     |              |?|
 
-
-### Cost of the solar panels
+### Cost of the solar system
 
 width = 6.5m ; length = 4.5m
 
 |Material     |Quantity |Unit |Price per unit| Total price (EURO)|
 | ----------- | ------- | --- | -------------| ----------------- |
 |Solar panels |9        | pcs | 100          | 900 |
+|Total        |         |     |              |?|
 
 
 
